@@ -1,0 +1,6 @@
+framework module Pods_SlideOutNavigationTests {
+  umbrella header "Pods-SlideOutNavigationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
